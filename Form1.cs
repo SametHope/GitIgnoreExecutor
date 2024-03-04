@@ -76,7 +76,7 @@ namespace GitIgnoreExecutor
                  );
 
             // Abort if canceled etc
-            if (promptResult != DialogResult.Yes)
+            if (promptResult != DialogResult.OK)
             {
                 return;
             }
