@@ -113,7 +113,7 @@
             // 
             // openFileDialog1
             // 
-            this.openFileDialog1.Filter = "Text files (*.txt)|*.txt";
+            this.openFileDialog1.Filter = ".gitignore |.gitignore|Text files (*.txt)|*.txt";
             // 
             // button2
             // 
