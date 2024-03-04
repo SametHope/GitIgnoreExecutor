@@ -3,9 +3,9 @@
 
  Sağlanan .gitignore kurallarınca, belirtilen dizini git ihtiyacı olmadan temizleyen bir program.  
 
- Bu program seçili bir dizinde, seçilen .gitignore kurallarınca görmezden gelinmesi planlanan dosya ve dizinleri silip, projeyi sanki bir depodan yeni klonlanmış gibi temiz hale getirir.
+ Bu program seçili bir dizinde, seçilen .gitignore kurallarınca görmezden gelinmesi planlanan dosya ve dizinleri silip, projeyi sanki bir depodan yeni klonlanmış gibi tertemiz hale getirir.
 
- Programın çalışması için sistemde git versiyon kontrol sisteminin yüklü olmasına ve hatta temizlenecek proje için bit git deposu oluşturulmuş olmasına dahi gerek yok. 
+ Programın çalışması için sistemde git versiyon kontrol sisteminin yüklü olmasına ve hatta temizlenecek proje için bir git deposu oluşturulmuş olmasına dahi gerek yok. 
  Proje dosyalarının ve temizlik için kullanılacak .gitignore kurallarının sağlanması yeterli.  
 
  ## Kullanım
