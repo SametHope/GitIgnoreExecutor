@@ -155,7 +155,7 @@
             this.MaximizeBox = false;
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = ".gitignore Uygulayıcı";
+            this.Text = "GitIgnoreExecutor  - .gitignore Uygulayıcı";
             this.ResumeLayout(false);
             this.PerformLayout();
 
