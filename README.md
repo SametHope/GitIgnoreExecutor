@@ -1,7 +1,7 @@
 # GitIgnoreExecutor - .gitignore Uygulayıcı
  See [English TLDR](https://github.com/SametHope/GitIgnoreExecutor/blob/main/README.md#english-tldr) below for English.  
 
- Sağlanan .gitignore kurallarınca belirtilen dizini git ihtiyacı olmadan temizleyen bir yazılım.  
+ Sağlanan .gitignore kurallarınca, belirtilen dizini git ihtiyacı olmadan temizleyen bir program.  
 
  Bu program seçili bir dizinde, seçilen .gitignore kurallarınca görmezden gelinmesi planlanan dosya ve dizinleri silip, projeyi sanki bir depodan yeni klonlanmış gibi temiz hale getirir.
 
