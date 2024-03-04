@@ -40,6 +40,6 @@ When run on a directory with a given ruleset, program deletes all file and folde
 
 This is pretty useful as it does not require git to be installed on the system or even a repository to exist to clean projects from junk files.
 
-This software is made using .Net Framework as it is used in our curriculum at the University.
+This software and repository is primarly using Turkish as it is sort of aimed for my curriculum.
 
-Special thanks to [MAB.DotIgnore](https://github.com/markashleybell/MAB.DotIgnore) package for providing the necessary API for this project to work with ease.
+Also see [MAB.DotIgnore](https://github.com/markashleybell/MAB.DotIgnore) which provided the necessary API for this project to come alive with ease.
