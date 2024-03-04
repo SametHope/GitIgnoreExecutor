@@ -24,7 +24,7 @@
  2. Hedef kurallarınızı ve dizininizi seçip kutucuğu işaretleyiniz. Çalıştır butonunun aktifleştiğini göreceksiniz.
 ![2024-03-04 19_25_57-Window](https://github.com/SametHope/GitIgnoreExecutor/assets/85421686/ffe4d6f8-d998-4f61-9933-710f0e26bd16)
 
- 3. Çalıştır butonuna basıp çıkan diyalogta tamama basınız.
+ 3. Çalıştır butonuna basıp çıkan diyalogda tamama basınız.
 ![2024-03-04 19_26_28-Window](https://github.com/SametHope/GitIgnoreExecutor/assets/85421686/a1ccc1d1-d803-418e-9e4a-86e52c6cf2b6)
 
  4. Uyarıyı dikkate alıp seçilen dizin ve .gitignore kurallarından emin olduktan sonra evete basıp devam ediniz.
