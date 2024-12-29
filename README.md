@@ -29,7 +29,7 @@
  Programın güvenilirliği bu programın deposunun bizzat kendisinin yanı sıra birden fazla bilgisayarda ve git deposunda test edilmiştir ancak herhangi bir garanti verilmez.  
  
  Program çalıştırıldığında GitHub Desktop uygulaması işlem yapılan depoda herhangi bir değişiklik algılamamakta, yani git tarafından izi sürülen herhangi bir dosya modifiye edilmemekte ve yalnızca zaten
- görmezden gelinen dosya ve dizinler beklendiği silinmekte.
+ görmezden gelinen dosya ve dizinler beklendiği gibi silinmekte.
 
  Program açık kaynaklı olmasıyla birlikte fonksiyonalitesinin en önemli kısmını [Form1.cs kaynak kodu](https://github.com/SametHope/GitIgnoreExecutor/blob/main/Form1.cs) içeriyor, bu kodu bizzat inceleyip programın nasıl çalıştığını rahatlıkla görebilirsiniz.
 
